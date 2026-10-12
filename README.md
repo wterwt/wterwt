@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Profile banner" />
+<img src="https://cdn.jsdelivr.net/gh/wterwt/wterwt@main/assets/banner.svg" width="100%" alt="Profile banner" />
 
 <br />
 
@@ -36,7 +36,7 @@
 </td>
 <td width="48%" valign="top">
 
-<img src="assets/about-card.svg" width="100%" alt="Profile card" />
+<img src="https://cdn.jsdelivr.net/gh/wterwt/wterwt@main/assets/about-card.svg" width="100%" alt="Profile card" />
 
 </td>
 </tr>
@@ -168,21 +168,18 @@ GPT-SoVITS 语音播报插件 for DeepSeek Harness — 角色音色、情感映�
 
 <br />
 
-<img height="170" src="https://streak-stats.demolab.com?user=wterwt&hide_border=true&background=0D1117&stroke=1F2A3C&ring=7C8CFF&fire=58A6FF&currStreakLabel=9ECBFF&sideLabels=A9B6C6&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&border_radius=12" alt="Streak stats" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=wterwt&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wterwt&bg_color=0D1117&color=9ECBFF&line=7C8CFF&point=E6EDF3&area=true&area_color=58A6FF&hide_border=true&radius=12" alt="Activity graph" />
+<img src="https://img.shields.io/github/stars/wterwt/dsh-sovits-widget?style=for-the-badge&color=58A6FF&labelColor=161B22&logo=github&label=STARS" alt="Stars" />
+<img src="https://img.shields.io/github/forks/wterwt/dsh-sovits-widget?style=for-the-badge&color=7C8CFF&labelColor=161B22&logo=github&label=FORKS" alt="Forks" />
+<img src="https://img.shields.io/github/issues/wterwt/dsh-sovits-widget?style=for-the-badge&color=A855F7&labelColor=161B22&logo=github&label=ISSUES" alt="Issues" />
+<img src="https://img.shields.io/github/last-commit/wterwt/dsh-sovits-widget?style=for-the-badge&color=58A6FF&labelColor=161B22&logo=github&label=LAST+COMMIT" alt="Last commit" />
+<img src="https://img.shields.io/github/languages/top/wterwt/dsh-sovits-widget?style=for-the-badge&color=7C8CFF&labelColor=161B22&logo=typescript&logoColor=white&label=TOP+LANG" alt="Top language" />
+<img src="https://img.shields.io/github/license/wterwt/dsh-sovits-widget?style=for-the-badge&color=A855F7&labelColor=161B22&logo=opensourceinitiative&logoColor=white&label=LICENSE" alt="License" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/wterwt/wterwt/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/wterwt/wterwt@output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
@@ -204,7 +201,7 @@ GPT-SoVITS 语音播报插件 for DeepSeek Harness — 角色音色、情感映�
 
 <br />
 
-<img src="assets/footer.svg" width="100%" alt="Footer" />
+<img src="https://cdn.jsdelivr.net/gh/wterwt/wterwt@main/assets/footer.svg" width="100%" alt="Footer" />
 
 <div align="center">
 
