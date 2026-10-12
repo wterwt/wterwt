@@ -180,14 +180,11 @@ GPT-SoVITS 语音播报插件 for DeepSeek Harness — 角色音色、情感映�
 
 </div>
 
-<!--
-贡献蛇形图需要先启用 .github/workflows/snake.yml，跑一次之后才会生成 output 分支。
-生成完成后把下面这段取消注释即可：
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wterwt/wterwt/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+
+<img width="100%" src="https://raw.githubusercontent.com/wterwt/wterwt/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+
 </div>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:7C8CFF,100:A855F7&height=2&section=header" width="100%" alt="" />
 
